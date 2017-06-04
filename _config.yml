@@ -1,7 +1,7 @@
 # Site settings
-name: John Smith
-description: "Nifty little description"
-url: ""
+name: "Matthieu Devige"
+description: "Ma super description"
+url: "https://matthieu-devige.github.io/"
 
 
 # Delete the lines you don't need
@@ -33,7 +33,7 @@ avatar: yes
 #avatar_img_path: "imgs/avatar.jpg""
 # You can link to your GitHub image. That way it will get updated
 # automatically whenever you change your GitHub profile picture
-avatar_img_path: "https://avatars2.githubusercontent.com/u/17301305"
+avatar_img_path: "imgs/profil.jpg"
 
 
 front_img: yes
